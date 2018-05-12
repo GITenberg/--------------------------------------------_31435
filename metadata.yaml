@@ -1,0 +1,46 @@
+_repo: '--------------------------------------------_31435'
+_version: 0.1.0
+alternative_title: 'Iphigenia in Tauris: Drama in five acts'
+contributor:
+  translator:
+    agent_name: Chatzopoulos, Kostantinos
+    aliases:
+    - Χατζόπουλος, Κωσταντίνος
+    - Chatzopoulos, Konstantinos
+    - Hatzopoulos, Constantine
+    - Χατζόπουλος, Κωνσταντίνος
+    - Chatzopulos, Costantino
+    - Chatzopoulos, Kostas
+    birthdate: 1868
+    deathdate: 1920
+    gutenberg_agent_id: '9127'
+    url: http://www.gutenberg.org/2009/agents/9127
+    wikipedia: http://el.wikipedia.org/wiki/%CE%9A%CF%89%CE%BD%CF%83%CF%84%CE%B1%CE%BD%CF%84%CE%AF%CE%BD%CE%BF%CF%82_%CE%A7%CE%B1%CF%84%CE%B6%CF%8C%CF%80%CE%BF%CF%85%CE%BB%CE%BF%CF%82
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Goethe, Johann Wolfgang von
+    aliases:
+    - Von Goethe, Johann Wolfgang
+    - Goethe, J. W. (Johann Wolfgang)
+    birthdate: 1749
+    deathdate: 1832
+    gutenberg_agent_id: '586'
+    url: http://www.gutenberg.org/2009/agents/586
+    wikipedia: http://en.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe
+description: ''
+gutenberg_issued: '2010-02-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31435'
+language: el
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Iphigenia (Mythological character) -- Drama'
+- !lcc 'PT'
+title: 'Ιφιγένεια εν Ταύροις: Δράμα σε πράξεις πέντε'
+url: http://www.gutenberg.org/ebooks/31435
